@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @chostanz
+- 👋 Hi, I’m @deww
 - 👀 I’m interested in engineering
-- 🌱 I’m currently learning japanese language and javascript
+- 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on my school
-- 📫 How to reach me @dewwi.i__(instagram), @chosthanz(telegram)
+- 📫 How to reach me @dewrahw(instagram)
 
 <!---
 chostanz/chostanz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
